@@ -40,3 +40,14 @@ Each script contains descriptive input and output placeholders. Replace these wi
 ## Citation
 
 ElSaadani, M., Habib, E., and Morsy, M. M. (2026). Effect of Design Storm Characterization on Flood Exposure and Structure Damage Estimates: A Case Study in South Louisiana, USA. *EGUsphere* [preprint]. [doi:10.5194/egusphere-2026-1388](https://doi.org/10.5194/egusphere-2026-1388).
+
+## License
+
+The Python code and associated software documentation are licensed under the
+[MIT License](LICENSE). The SST rainfall realizations, diagnostics, and
+configuration files are licensed under [CC BY 4.0](sst/LICENSE). The authors'
+original study video and poster content are also licensed under
+[CC BY 4.0](media/LICENSE).
+
+Third-party material, including credited basemap imagery, retains its applicable
+rights and terms.
