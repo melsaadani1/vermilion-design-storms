@@ -1,0 +1,32 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# User inputs and generated outputs
+data/inputs/
+results/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.geojson
+*.tif
+*.tiff
+*.aux.xml
+*.xlsx
+*.csv
+
+# Local configuration and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
