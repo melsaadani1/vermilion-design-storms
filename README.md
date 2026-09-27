@@ -16,6 +16,8 @@ The study compares flood exposure and estimated structure damage under NOAA Atla
 
 [Watch or download the full video](media/vermilion-design-storm-study.mp4) · 3 min 33 s
 
+[Explore the interactive module](https://melsaadani1.github.io/modules/nhess-2026/)
+
 ## Code
 
 | Script | Analysis |
