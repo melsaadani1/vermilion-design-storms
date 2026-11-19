@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these analyses, please cite the accompanying study. The preprint citation is provided pending the final NHESS article."
+message: "If you use these analyses, please cite the accompanying study."
 title: "Vermilion design storms: analysis code and study video"
 type: software
 authors:
@@ -11,7 +11,7 @@ authors:
     given-names: Mohamed M.
 preferred-citation:
   type: article
-  title: "Effect of Design Storm Characterization on Flood Exposure and Structure Damage Estimates: A Case Study in South Louisiana, USA"
+  title: "Flood exposure and structure damage under deterministic design-storm and stochastic storm transposition rainfall scenarios: a case study in South Louisiana, USA"
   authors:
     - family-names: ElSaadani
       given-names: Mohamed
@@ -19,7 +19,9 @@ preferred-citation:
       given-names: Emad
     - family-names: Morsy
       given-names: Mohamed M.
-  journal: EGUsphere
+  journal: "Natural Hazards and Earth System Sciences"
   year: 2026
-  doi: 10.5194/egusphere-2026-1388
-  notes: Preprint
+  volume: 26
+  start: 5201
+  end: 5218
+  doi: 10.5194/nhess-26-5201-2026
