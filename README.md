@@ -2,11 +2,11 @@
 
 Python analysis scripts and the study video accompanying:
 
-**Flood Exposure and Structure Damage under Deterministic Design-Storm and Stochastic Storm Transposition Rainfall Scenarios: A Case Study in South Louisiana, USA**
+**[Flood exposure and structure damage under deterministic design-storm and stochastic storm transposition rainfall scenarios: a case study in South Louisiana, USA](https://doi.org/10.5194/nhess-26-5201-2026)**
 
 Mohamed ElSaadani, Emad Habib, and Mohamed M. Morsy
 
-Accepted for publication in *Natural Hazards and Earth System Sciences* (NHESS). The [EGUsphere preprint](https://doi.org/10.5194/egusphere-2026-1388) is available under the earlier title *Effect of Design Storm Characterization on Flood Exposure and Structure Damage Estimates: A Case Study in South Louisiana, USA*.
+Published in *Natural Hazards and Earth System Sciences* (NHESS) and selected as an NHESS Highlight Paper.
 
 The study compares flood exposure and estimated structure damage under NOAA Atlas 14 and stochastic storm transposition (SST) rainfall scenarios in the Vermilion River Basin, Louisiana.
 
@@ -39,7 +39,7 @@ Each script contains descriptive input and output placeholders. Replace these wi
 
 ## Citation
 
-ElSaadani, M., Habib, E., and Morsy, M. M. (2026). Effect of Design Storm Characterization on Flood Exposure and Structure Damage Estimates: A Case Study in South Louisiana, USA. *EGUsphere* [preprint]. [doi:10.5194/egusphere-2026-1388](https://doi.org/10.5194/egusphere-2026-1388).
+ElSaadani, M., Habib, E., and Morsy, M. M. (2026). Flood exposure and structure damage under deterministic design-storm and stochastic storm transposition rainfall scenarios: a case study in South Louisiana, USA. *Natural Hazards and Earth System Sciences*, 26, 5201–5218. [doi:10.5194/nhess-26-5201-2026](https://doi.org/10.5194/nhess-26-5201-2026).
 
 ## License
 
